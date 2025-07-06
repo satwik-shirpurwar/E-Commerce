@@ -1,2 +1,2 @@
 # E-Commerce
-An Online Shopping Website
+An online shopping website named Shirpurwar's Trend.
